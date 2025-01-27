@@ -1,6 +1,6 @@
 # Heart Trail Animation
 
-This project create a heart trail animation while you move your mouse over the screen using HTML, CSS, and JavaScript.
+This project creates a heart trail animation while you move your mouse over the screen using HTML, CSS, and JavaScript.
 
 ## How to run
 
